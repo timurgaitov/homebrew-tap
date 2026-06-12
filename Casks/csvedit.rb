@@ -1,6 +1,6 @@
 cask "csvedit" do
-  version "1.0.0"
-  sha256 "38192c264dd4761ad092e0f71e3d1aabf20ac37b31440a56d63cd140d0ac5f8d"
+  version "1.0.1"
+  sha256 "e512f692b3957783e2c83ebd4bf67f6fd1cdfb5abb73ac0fcd42f064015ba507"
 
   url "https://github.com/timurgaitov/csvedit/releases/download/v#{version}/csvedit-#{version}.zip"
   name "csvedit"
