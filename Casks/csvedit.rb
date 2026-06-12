@@ -7,7 +7,7 @@ cask "csvedit" do
   desc "Fast native CSV editor for macOS"
   homepage "https://github.com/timurgaitov/csvedit"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "csvedit.app"
 
