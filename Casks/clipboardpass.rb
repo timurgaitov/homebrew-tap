@@ -1,6 +1,6 @@
 cask "clipboardpass" do
-  version "1.0.0"
-  sha256 "f352cd38372746d10310a7b69716c3a26fdce3c953d43fc20be0ae49e26c0a76"
+  version "1.0.1"
+  sha256 "c4b935a1b36373456930bde9e7086e951246bf36da552c0993cce1f7c9edea22"
 
   url "https://github.com/timurgaitov/clipboardpass/releases/download/v#{version}/clipboardpass-#{version}.zip"
   name "clipboardpass"
