@@ -1,6 +1,6 @@
 cask "cbp" do
-  version "1.0.0"
-  sha256 "b73d719529a5c1d35d9118a41efbb93519e43619a1afd59164a58d751b31822f"
+  version "1.0.1"
+  sha256 "b29a4b3485db2fe7ca6974d40c54362d272ac18e0cebdaae14ae0ae01cf7e4fc"
 
   url "https://github.com/timurgaitov/cbp/releases/download/v#{version}/cbp-#{version}.zip"
   name "cbp"
